@@ -1,4 +1,4 @@
--- we don't know how to generate schema PROGETTO (class Schema) :(
+schema PROGETTO (class Schema) :(
 create table TABELLA_MASTER
 (
 	DATA DATE,
